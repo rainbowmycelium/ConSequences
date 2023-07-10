@@ -14,11 +14,11 @@ Additional information about functions usage and the code can be found in ConSeq
 
 # Files
 
-ConSequences.R - contains thoroughly described script with functions for data curation, an examplary code to use with a test data provided and author's data necessary for citation
+ConSequences.R - contains thoroughly described script with functions for data curation, an examplary code to use with a test data provided and author's data necessary for citation.
 
 Test - folder containing test data:
 - Umbelopsis.csv - an examplary table containing sequence metadata to use with the test data
-- act1.txt, COI.txt, ITS.txt, LSU.txt, mcm7.txt, SSU.txt - an examplary accession numbers files used to download test data via BatchEntrez on the GenBank website
+- act1.txt, COI.txt, ITS.txt, LSU.txt, mcm7.txt, SSU.txt - an examplary accession numbers files used to download test data via BatchEntrez on the GenBank website.
 
 # Citation
 
