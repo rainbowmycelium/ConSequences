@@ -1,0 +1,39 @@
+species;strain_ID;ITS;LSU;act1;SSU;mcm7;COI;name
+Mortierella antarctica;CBS 609.70;MH859873.1;;LN847390.1;HQ667503.1;;;Mortierella_antarctica
+Umbelopsis angularis;CBS603.68;JN206380;HM849710;KF771842.1;NG_070102.1;MF417301.1;MF417178.1;Umbelopsis_angularis_1
+Umbelopsis angularis;CGMCC3.6640;KC489475;KF727440.1;KF771831;KM017656.1;MF417299.1;;Umbelopsis_angularis_2
+Umbelopsis autotrophica;CBS212.72;MH860449.1;JN206561;;;;;Umbelopsis_autotrophica_1
+Umbelopsis autotrophica;CBS 310.93;KC489480;MH874062.1;KF771843;NG_070103.1;;MF417179.1;Umbelopsis_autotrophica_2
+Umbelopsis changbaiensis;CGMCC 3.16346;KC489482;KF727445.1;KF771837;KM017671.1;MF417317.1;;Umbelopsis_changbaiensis_1
+Umbelopsis changbaiensis;CGMCC 3.16345;KC489481;KF727444.1;KF771836;KM017663.1;MF417309.1;;Umbelopsis_changbaiensis_2
+Umbelopsis dimorpha;CBS 110039;JN206387;HM849709;KF771833.1;NG_070107.1;MF417365.1;MF417247.1;Umbelopsis_dimorpha_1
+Umbelopsis dimorpha;CGMCC 3.6641;KC489477;KF727441.1;KF771841;KM017658.1;;;Umbelopsis_dimorpha_2
+Umbelopsis fusiformis;CBS 919.85;;JN206559;;;;;Umbelopsis_fusiformis_1
+Umbelopsis fusiformis;CBS 385.85;JN206386;JN206560;KF771861.1;NG_067645.1;MF417359.1;MF417240.1;Umbelopsis_fusiformis_2
+Umbelopsis gibberispora;CBS109328;JN206384;JN206564;KF771832.1;NG_070106.1;MF417364.1;MF417246.1;Umbelopsis_gibberispora_1
+Umbelopsis gibberispora;CBS101745;;JN206565;;;;;Umbelopsis_gibberispora_2
+Umbelopsis isabellina;CBS 167.80;JN206398;;;;;;Umbelopsis_isabellina_1
+Umbelopsis isabellina;CBS 560.63;KC489502;JN206573;MF417171.1;;;MF417243.1;Umbelopsis_isabellina_2
+Umbelopsis isabellina;CBS 309.93;JN206397;;;;;;Umbelopsis_isabellina_3
+Umbelopsis isabellina;CBS 250.95;JN206399 ;JN206574;;;;;Umbelopsis_isabellina_4
+Umbelopsis isabellina;CBS 208.32;KC489497;MH866742.1;KF771852;KM017681.1;;MF417235.1;Umbelopsis_isabellina_5
+Umbelopsis isabellina;NRRL 1757;JN943789.1;KM017707.1;KM017715.1;KM017692.1;;;Umbelopsis_isabellina_6
+Umbelopsis isabellina;NRRL 62705;KM017729.1;KM017709.1;KM017716.1;KM017693.1;;;Umbelopsis_isabellina_7
+Umbelopsis nana;CBS 858.68;KC489503;MH870964.1;KF771864;KM017686.1;MF417362.1;MF417244.1;Umbelopsis_nana_1
+Umbelopsis nana;NRRL 22420;KM017731.1;KM017708.1;AJ287210;KM017695.1;;;Umbelopsis_nana_2
+Umbelopsis ovata;CBS 499.82;KC489501;MH873268.1;KF771863;NG_070105.1;MF417361.1;MF417242.1;Umbelopsis_ovata
+Umbelopsis ramanniana;CBS112976;JN206382;JN206568;;;;;Umbelopsis_ramanniana_1
+Umbelopsis ramanniana;CGMCC 3.6646;MF417288.1;MF417113.1;MF417162.1;MF417068.1;MF417345.1;;Umbelopsis_ramanniana_2
+Umbelopsis ramanniana;NRRL5844;AY997097.1;KM017710.1;KM017713.1;KM017694.1;;;Umbelopsis_ramanniana_3
+Umbelopsis ramanniana;CBS101226;JN206383;JN206566;;;;;Umbelopsis_ramanniana_4
+Umbelopsis ramanniana;NRRL1296;KC489493;KF727456.1;KF771847;KM017676.1;;;Umbelopsis_ramanniana_5
+Umbelopsis roseonana;CBS 473.74;KF765510;KF727464.1;KF771862;KM017684.1;;;Umbelopsis_roseonana
+Umbelopsis sinsidoensis;CNUFC-GSNPF7-1;MF926618;MF926612;MF926511;MF926624;;;Umbelopsis_sinsidoensis_1
+Umbelopsis sinsidoensis;CNUFC-GSNPF7-2;MF926619;MF926613;MF926512;MF926625;;;Umbelopsis_sinsidoensis_2
+Umbelopsis swartii;CBS 868.85;KC489504;JN206567;KF771865;NG_068361.1;MF417363.1;MF417245.1;Umbelopsis_swartii
+Umbelopsis versiformis;CBS 150.81 ;KC489496;KF727459.1;KF771851;;MF417355.1;MF417234.1;Umbelopsis_versiformis
+Umbelopsis vinacea;CGMCC3.16357;KC489495;;KF771849;KM017679.1;MF417354;;Umbelopsis_vinacea_1
+Umbelopsis vinacea;CBS 236.82;KC489499;JN206569;KF771860.1;MF417074.1;MF417358.1;MF417239.1;Umbelopsis_vinacea_2
+Umbelopsis vinacea;CGMCC 3.16350;KC489487;KF727450.1;;;;;Umbelopsis_vinacea_3
+Umbelopsis vinacea;CGMCC 3.16351 ;KC489488;KF727451.1;;;;;Umbelopsis_vinacea_4
+Umbelopsis westeae;CBS 870.85;KC489505;NG_058037.1;KF771834;NG_067646.1;MF417366.1;MF417248.1;Umbelopsis_westeae
