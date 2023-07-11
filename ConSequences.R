@@ -1,5 +1,5 @@
 ---
-  title: "Consequences"
+  title: "ConSequences"
   author: "Beniamin Abramczyk"
   date: "29 of April, 2023"
   output: fasta_and_csv_files
