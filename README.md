@@ -22,4 +22,4 @@ Test - folder containing test data:
 
 # Citation
 
-If you use this code in Your work, please cite this repository along with the script name. Author's data necessary for citation are available in ConSequences.R file.
+If You use this code in Your work, please cite this repository along with the script name. Author's data necessary for citation are available in ConSequences.R file.
